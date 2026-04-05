@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    color:#5D4037 ;
+    background-color:#FFF3E0;
+}
+.container{
+ width: 100%;
+}
+header{
+    text-align: center;
+    font-size: 24px;
+    background-color:#D7A86E;
+    width:100%;
+    height: auto;
+    padding: 20px;
+    border: 8px #5D4037  solid;
+    border-radius: 20px;
+}
+.ok{
+    margin:10px  10px;
+    border: 6px #5D4037  solid;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.poig{
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    top: 420px;
+    left: 0; 
+    width: 100%;
+}
+.kp{
+    display: flex;
+    justify-content:center;
+    align-items: flex-start;
+    gap: 20px;
+    margin:20px 10px;
+    flex-wrap: wrap;
+    border:6px solid #5D4037;
+    border-radius:20px;
+    padding: 25px;
+}
+.hodin{
+    text-align:center;
+}
+.div_1{
+    border: 8px #5D4037 solid;
+    border-radius: 20px;
+    width: 200px;
+    padding: 20px;
+    font-size:16px;
+    background:#D7A86E;
+    margin-top: 30px;
+}
+.div_1 img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+.div_2{
+    border: 8px #5D4037 dashed;
+    border-radius: 20px;
+    width: 200px;
+    padding: 20px;
+    font-size:16px;
+    background:#D7A86E;
+    margin-top: 30px;
+}
+.div_2 img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+.div_3{
+    border: 8px #5D4037 solid;
+    border-radius: 20px;
+    width: 200px;
+    padding: 20px;
+    font-size:16px;
+    background:#D7A86E;
+    margin-top: 30px;
+}
+.div_3 img{
+    width: 150px;
+    height:150px;
+    
+}
+table{
+    border-collapse:collapse;
+    width: 80%;
+    margin: 25px auto;
+    font-size: 16px;
+    height: 120px;
+    border-radius: 20px;
+
+}
+td,th{
+    border:  2px solid #5D4037 ;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+th{
+    background-color:#FFFFFF;
+}
+.tobl{
+    border: 8px #5D4037  solid;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 10px;
+}
+.psp{
+    margin:10px  10px;
+    border: 6px   solid;
+    padding: 10px;
+    width: 450px;
+    font-size: 20px;
+    border: 8px #5D4037  solid;
+    border-radius: 20px;
+}
+footer{
+    text-align: center;
+    font-size: 24px;
+    background-color: #D7A86E;
+    width:100%;
+    height: auto;
+    padding: 20px;
+    border: 8px #5D4037  solid;
+    border-radius: 20px;
+}
